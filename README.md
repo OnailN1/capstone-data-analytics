@@ -27,17 +27,19 @@ U.S. Census Bureau: Source for historical household income for the past 12 month
 - Update the Zillow data source path to the Zillow_Yearly_Data file
 - Click Refresh in Power BI to load the data
 
-## File Structure - made with https://tree.nathanfriend.com/
+## File Structure 
 
 HousingAffordabiltyProject/
-├── Data/
-│   ├── Data_From_Census (folder)
-│   └── Zillow_Yearly_Data.csv
-├── Power BI/
-│   └── Housing_Affordabilty.pbix
-└── README.md
+Data
+- Data_From_Census (folder)
+- Zillow_Yearly_Data.csv
+
+Power BI
+- Housing_Affordability.pbix
 
 README.md
 
+
 ## Authur Name
+Onail Nissan 
 
