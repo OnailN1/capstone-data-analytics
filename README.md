@@ -4,7 +4,7 @@ Final Capstone Project for Data Analytics Course
 Housing Affordability Analysis: Peoria, AZ (zip code 85382) 
 
 ## Overview
-This repository contains files and Power BI file and template that pertains to the housing affordability crisis in Peoria, Arizona. Specifically focusing on the zip code 85382 from the years 2015 to 2025. This analysis highlights the increasing gap between the median household income and median home values. While median household income has increased by 45%, the median home values rose by 107%. With the combination of using calculated measures such as the affordability index combined with Power BI, this project shows the average home price in this area has risen over five times the median household income. 
+This GitHub folder contains files and Power BI file and template that pertains to the housing affordability crisis in Peoria, Arizona. Specifically focusing on the zip code 85382 from the years 2015 to 2025. This analysis highlights the increasing gap between the median household income and median home values. While median household income has increased by 39%, the median home values rose by 95% from 2015 to 2025. With the combination of using calculated measures such as the affordability index combined with Power BI, this project shows the average home price in this area has risen over five times the median household income. 
 
 ## Technologies used
 Power BI Desktop: Used for data modeling, calculated measures and interactive visualizations on a dashboard. 
