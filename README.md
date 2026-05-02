@@ -8,7 +8,7 @@ This GitHub folder contains files and Power BI file and template that pertains t
 
 ## Technologies use
 - Power BI Desktop: Used for data modeling, calculated measures and interactive visualizations on a dashboard. 
-- **Power Query: Used inside Power BI for data cleaning, data merging, shaping datasets, and preparing the data model. Power Query was also used instead of Python to support the linear regression model and forecasting process.
+- Power Query: Used inside Power BI for data cleaning, data merging, shaping datasets, and preparing the data model. Power Query was also used instead of Python to support the linear regression model and forecasting process.
 - Excel: Used for first time examination of the data
 - Zillow Research Data: Source for the historical median home value data  
 - U.S. Census Bureau: Source for historical household income for the past 12 months
