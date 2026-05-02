@@ -11,7 +11,9 @@ This GitHub folder contains files and Power BI file and template that pertains t
 - **Power Query: Used inside Power BI for data cleaning, data merging, shaping datasets, and preparing the data model. Power Query was also used instead of Python to support the linear regression model and forecasting process.
 - Excel: Used for first time examination of the data
 - Zillow Research Data: Source for the historical median home value data  
-- U.S. Census Bureau: Source for historical household income for the past 12 months 
+- U.S. Census Bureau: Source for historical household income for the past 12 months
+
+  
 Important Note: Used Power Query for Linear Regression Model and data cleaning, data merging and data modeling. This process is in the Power BI Modeling and Data Documentation.pdf file. 
 
 ## How to reproduce the analysis 
