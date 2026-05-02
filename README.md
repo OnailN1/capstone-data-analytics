@@ -32,15 +32,15 @@ U.S. Census Bureau: Source for historical household income for the past 12 month
 
 ## File Structure 
 
-└── Housing Affordabilty Analysis Capstone Project/
-    ├── Data/
-    │   ├── Median_Household_Income
-    │   └── Zillow_Yearly_Data.csv
-    ├── Documentation /
-    │   ├── Instructional Report.pdf
-    │   └── Power BI Modeling and Data Documentation.pdf
-    ├── Housing Affordability Analysis.pbix
-    └── README.md
+Housing Affordabilty Analysis Capstone Project
+├── Data
+│   ├── Median_Household_Income
+│   └── Zillow_Yearly_Data.csv
+├── Documentation 
+│   ├── Instructional Report.pdf
+│   └── Power BI Modeling and Data Documentation.pdf
+├── Housing Affordability Analysis.pbix
+└── README.md
 
 
 ## Author Name
