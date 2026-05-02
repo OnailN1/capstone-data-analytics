@@ -34,7 +34,7 @@ U.S. Census Bureau: Source for historical household income for the past 12 month
 
 #### Housing_Affordability_Project
 
-Data
+Folder -> 
 - Data_From_Census (folder)
 - Zillow_Yearly_Data.csv
 
