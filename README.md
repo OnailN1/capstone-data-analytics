@@ -15,7 +15,7 @@ This GitHub folder contains files and Power BI file and template that pertains t
 
   
 ### **Important Note: This Housing Affordability Analysis used Power Query for Linear Regression Model and data cleaning, data merging and data modeling.** 
-- This process is in the Power BI Modeling and Data Documentation.pdf file.
+- This process is in the **Power BI Modeling and Data Documentation.pdf file.**
 
 ## How to reproduce the analysis 
 1.	Clone the repository 
