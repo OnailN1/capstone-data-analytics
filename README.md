@@ -14,7 +14,7 @@ This GitHub folder contains files and Power BI file and template that pertains t
 - U.S. Census Bureau: Source for historical household income for the past 12 months
 
   
-### **Important Note: This Housing Affordability Analysis used Power Query instead of Python for Linear Regression Model and data cleaning, data merging and data modeling.** 
+### **Important Note: This Housing Affordability Analysis used Power Query instead of Python for the Linear Regression Model and data cleaning, data merging and data modeling.** 
 - This process is in the **Power BI Modeling and Data Documentation.pdf file.**
 
 ## How to reproduce the analysis 
