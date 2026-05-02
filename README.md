@@ -36,11 +36,9 @@ This GitHub folder contains files and Power BI file and template that pertains t
 - Click Refresh in Power BI to load the data
 
 ## File Structure 
+- This website was used in order to my File Structure Tree: https://tree.nathanfriend.com/ 
 
-## File Structure
-
-```text
-.
+```text to show File Structure
 └── Housing Affordabilty Analysis Capstone Project
     ├── Data
     │   ├── Median_Household_Income
