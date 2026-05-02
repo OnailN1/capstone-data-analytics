@@ -32,7 +32,7 @@ U.S. Census Bureau: Source for historical household income for the past 12 month
 
 ## File Structure 
 
-#Housing_Affordability_Project
+# Housing_Affordability_Project
 
 Data
 - Data_From_Census (folder)
