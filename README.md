@@ -38,7 +38,7 @@ Data
 - Data_From_Census (folder)
 - Zillow_Yearly_Data.csv
 
-Power BI
+
 - Housing_Affordability.pbix
 
 README.md
